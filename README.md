@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sana-taj-79-26
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on graph neural networks
+- 📫 Reach me through email address
